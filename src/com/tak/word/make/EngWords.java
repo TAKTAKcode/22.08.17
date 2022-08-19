@@ -24,12 +24,7 @@ public class EngWords {
                 } else {
                     set.rewrite();
                 }
-
-
             }
-
         }
-
     }
-
 }
