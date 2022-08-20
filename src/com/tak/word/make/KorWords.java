@@ -16,10 +16,10 @@ public class KorWords {
 
             while (true) {
                 set.write();
-                System.out.println(kor[0]);
+                System.out.println(kor[i]);
                 str = sc.nextLine();
 
-                if (str.equals(kor[0])) {
+                if (str.equals(kor[i])) {
                     break;
                 } else {
                     set.rewrite();

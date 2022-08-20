@@ -16,7 +16,7 @@ public class EngWords {
 
             while (true) {
                 set.write();
-                System.out.println(eng[0]);
+                System.out.println(eng[i]);
                 str = sc.nextLine();
 
                 if (str.equals(eng[i])) {
